@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/spexcher/leetcode_solutions/tree/master/0258-add-digits) |
+| [2396-strictly-palindromic-number](https://github.com/spexcher/leetcode_solutions/tree/master/2396-strictly-palindromic-number) |
 | [2769-find-the-maximum-achievable-number](https://github.com/spexcher/leetcode_solutions/tree/master/2769-find-the-maximum-achievable-number) |
 ## Simulation
 |  |
@@ -51,4 +52,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/spexcher/leetcode_solutions/tree/master/0387-first-unique-character-in-a-string) |
+## Two Pointers
+|  |
+| ------- |
+| [2396-strictly-palindromic-number](https://github.com/spexcher/leetcode_solutions/tree/master/2396-strictly-palindromic-number) |
+## Brainteaser
+|  |
+| ------- |
+| [2396-strictly-palindromic-number](https://github.com/spexcher/leetcode_solutions/tree/master/2396-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
