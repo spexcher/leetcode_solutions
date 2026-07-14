@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0006-zigzag-conversion](https://github.com/spexcher/leetcode_solutions/tree/master/0006-zigzag-conversion) |
 | [0387-first-unique-character-in-a-string](https://github.com/spexcher/leetcode_solutions/tree/master/0387-first-unique-character-in-a-string) |
 ## Queue
 |  |
