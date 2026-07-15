@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/spexcher/leetcode_solutions/tree/master/0258-add-digits) |
 | [1012-numbers-with-repeated-digits](https://github.com/spexcher/leetcode_solutions/tree/master/1012-numbers-with-repeated-digits) |
 | [2396-strictly-palindromic-number](https://github.com/spexcher/leetcode_solutions/tree/master/2396-strictly-palindromic-number) |
+| [2719-count-of-integers](https://github.com/spexcher/leetcode_solutions/tree/master/2719-count-of-integers) |
 | [2769-find-the-maximum-achievable-number](https://github.com/spexcher/leetcode_solutions/tree/master/2769-find-the-maximum-achievable-number) |
 ## Simulation
 |  |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0006-zigzag-conversion](https://github.com/spexcher/leetcode_solutions/tree/master/0006-zigzag-conversion) |
 | [0387-first-unique-character-in-a-string](https://github.com/spexcher/leetcode_solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [2719-count-of-integers](https://github.com/spexcher/leetcode_solutions/tree/master/2719-count-of-integers) |
 ## Queue
 |  |
 | ------- |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0233-number-of-digit-one](https://github.com/spexcher/leetcode_solutions/tree/master/0233-number-of-digit-one) |
 | [1012-numbers-with-repeated-digits](https://github.com/spexcher/leetcode_solutions/tree/master/1012-numbers-with-repeated-digits) |
+| [2719-count-of-integers](https://github.com/spexcher/leetcode_solutions/tree/master/2719-count-of-integers) |
 ## Recursion
 |  |
 | ------- |
